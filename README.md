@@ -3,7 +3,7 @@ A simple telegram bot made with synchronous commands, a bot with a davinci neura
 
 Заполняем переменные которые я закоментировал и запускаем бота.
 
-После добавляем ключи openAi api через комагду /token <key>
+После добавляем ключи openAi api через команду /token <key>
 
 Теперь бот готов к работе!
 
